@@ -1,4 +1,4 @@
-# 🏛️ Capital Institute | Educational Web Portal
+# Capital Institute | Educational Web Portal
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 Key Pages & Features
+## Key Pages & Features
 
 - **Homepage:** Hero showcase, mission statement, and featured academic programs.
 - **Course Catalog (`courses.html`):** Detailed curriculum syllabi, duration, and prerequisites.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 Simply clone the repository and open `index.html` in any modern web browser:
 
@@ -30,5 +30,5 @@ cd capital-institute-portal
 
 ---
 
-## 👨‍💻 Author
+## ‍ Author
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
